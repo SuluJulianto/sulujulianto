@@ -6,5 +6,5 @@ Hi, I'm Sulu Edward Julianto. I am a newcomer to the programming world with a gr
 ## Other Information
 
 - Languages: English, Japanese, and Indonesian
-- Citizenship: Indonesia
+- Nationality: Indonesia
 - Born: July 3, 2002
