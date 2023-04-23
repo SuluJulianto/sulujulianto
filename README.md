@@ -8,3 +8,9 @@ Hi, I'm Sulu Edward Julianto. I am a newcomer to the programming world with a gr
 - Languages: English, Japanese, and Indonesian
 - Nationality: Indonesia
 - Born: July 3, 2002
+
+## Contact
+
+- Email: sulucontact@gmail.com
+- Mastodon: sulujulianto@mastodon.sosial
+- Twitter: @sulujulianto
