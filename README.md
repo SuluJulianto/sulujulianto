@@ -12,5 +12,5 @@ Hi, I'm Sulu Edward Julianto. I am a newcomer to the programming world with a gr
 ## Contact
 
 - Email: sulucontact@gmail.com
-- Mastodon: sulujulianto@mastodon.online
-- Twitter: www.twitter.com/sulujulianto
+- Mastodon: sulujulianto@mastodon.social
+- Twitter: @sulujulianto
